@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Examples](#examples)
+- [Example](#example)
 - [Quick Start Guide](#quick-start-guide)
 - [Citation](#citation)
 
@@ -20,6 +20,9 @@ This repository gives you access to the code necessary to:
 * Generate the figures present in the published paper.
 
 ## Example
+
+Video links:
+
 [![Prediction of Cell Traction Forces with uncertainty](http://img.youtube.com/vi/U9-Tn9ojXAU/0.jpg)](https://youtu.be/U9-Tn9ojXAU "In Silico Prediction of Cell Traction Forces - Uncertainty")
 
 [![Prediction of Cell Traction Forces](http://img.youtube.com/vi/QhzNmrA42T4/0.jpg)](https://youtu.be/QhzNmrA42T4 "In Silico Prediction of Cell Traction Forces")
