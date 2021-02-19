@@ -51,14 +51,16 @@ jupyter notebook
 ## Citation
 Please cite the following paper if you are using or contributing to our method:
 
->Nicolas Pielawski, Jianjiang Hu, Staffan Strömblad, and Carolina Wählby. "In Silico Prediction of Cell Traction Forces" arXiv preprint arXiv:1910.07380 (2019).
+>N. Pielawski, J. Hu, S. Strömblad and C. Wählby, "In Silico Prediction of Cell Traction Forces," 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI), Iowa City, IA, USA, 2020, pp. 877-881, doi: 10.1109/ISBI45749.2020.9098359.
 
 ```
-@article{pielawski2019insilicotfm,
-  title={In Silico Prediction of Cell Traction Forces},
-  author={Pielawski, Nicolas and Hu, jianjiang and Str\"{o}mblad, Staffan and W\"{a}hlby, Carolina},
-  journal={arXiv preprint arXiv:1910.07380},
-  year={2019}
+@INPROCEEDINGS{InSilicoTFM,
+  author={N. {Pielawski} and J. {Hu} and S. {Strömblad} and C. {Wählby}},
+  booktitle={2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)},
+  title={In Silico Prediction of Cell Traction Forces}, 
+  year={2020},
+  pages={877-881},
+  doi={10.1109/ISBI45749.2020.9098359}
 }
 ```
 
