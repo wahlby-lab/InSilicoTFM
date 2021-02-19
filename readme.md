@@ -3,7 +3,6 @@
 
 <h1 align="center">In Silico Prediction of Cell Traction Forces</h1>
 <h4 align="center">🧫 Prediction Cell Traction forces with Deep Learning 🤖</h4>
-<h4 align="center">⭐️ The code will be uploaded any time soon! ⭐️</h4>
 
 The paper is available on Arxiv: https://arxiv.org/abs/1910.07380
 
